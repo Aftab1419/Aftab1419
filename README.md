@@ -4,7 +4,7 @@
 - 📑 I’m looking to collaborate on open source projects, internships, remote contracts, and assignments related to C++ development and MERN stack development.
 - How to reach me:
   - LinkedIn: [Aftab Naik](https://www.linkedin.com/in/aftabnaik/)
-  - Discord: [@Aftab#2604](discordapp.com/users/1117434567519903744)
+  - Discord: [@Aftab#2604](https://discordapp.com/users/1117434567519903744)
   - Email: [aftabnaik1419@gmail.com](mailto:aftabnaik1419@gmail.com)
  
 <!---
